@@ -5,3 +5,7 @@
 $ git init 
 Se inicializó el repositorio Git vacío en /Users/skills/Projects/recipe-repository/.git/ 
 ```
+Cosas para hacer hoy:
+- [x] Sonreir al sol
+- [ ] Escuchar tu cancion favorita
+- [ ] bailar un rato
